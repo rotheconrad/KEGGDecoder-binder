@@ -1,27 +1,8 @@
 # mHEAT-binder
-metabolic heatmap
+Metabolic heatmaps via KEGGDecoder.
 
-# Python environment with requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/binder-examples/requirements/master)
 
-A Binder-compatible repo with a `requirements.txt` file.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rotheconrad/mHEAT-binder/master)
 
-Access this Binder at the following URL 
-
-http://mybinder.org/v2/gh/binder-examples/requirements/master
-
-## Notes
-The `requirements.txt` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
-
-```
-pip install -r requirements.txt
-```
-
-The base Binder image contains no extra dependencies, so be as
-explicit as possible in defining the packages that you need. This includes
-specifying explict versions wherever possible.
-
-In this example we include the library `seaborn` which will be installed in
-the environment, and our notebook uses it to plot a figure.
+This binder provides instructions and demo for the [KEGGDecoder](https://github.com/bjtully/BioData/tree/master/KEGGDecoder) tool, which makes a metabolic heatmap. The package was developed by Ben Tully and expanded during the Speeding Up Science workshop by Jay Osvatic, Roth Conrad, Luiz Irber, and Taylor Reiter. 
