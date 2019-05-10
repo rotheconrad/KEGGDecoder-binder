@@ -1,1 +1,1 @@
-KEGGdecoder==0.8.2
+KEGGdecoder==0.8.3
