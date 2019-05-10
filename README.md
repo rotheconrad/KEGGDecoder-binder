@@ -1,4 +1,4 @@
-# mHEAT-binder
+# KEGGDecoder-binder
 Metabolic heatmaps via KEGGDecoder.
 
 
