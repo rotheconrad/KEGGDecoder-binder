@@ -1,7 +1,8 @@
 # KEGGDecoder-binder
 Metabolic heatmaps via KEGGDecoder.
-
-
+#current instructions
+#import KEGGDecoder.KEGG_decoder
+#!KEGG-decoder KOALA_INPUT OUTPUT Viz_option ('static' or 'interactive')
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rotheconrad/KEGGDecoder-binder/master)
 
